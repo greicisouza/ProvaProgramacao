@@ -1,0 +1,7 @@
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\bin\Debug\ProvaProgramacao.exe.config
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\bin\Debug\ProvaProgramacao.exe
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\bin\Debug\ProvaProgramacao.pdb
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\obj\Debug\ProvaProgramacao.csprojAssemblyReference.cache
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\obj\Debug\ProvaProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\obj\Debug\ProvaProgramacao.exe
+C:\Users\2019102652\source\repos\ProvaProgramacao\ProvaProgramacao\obj\Debug\ProvaProgramacao.pdb
